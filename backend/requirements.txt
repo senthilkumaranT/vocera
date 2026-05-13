@@ -1,0 +1,7 @@
+transformers
+torch
+torchaudio
+datasets
+torchcodec
+python-dotenv
+langsmith
